@@ -1,0 +1,31 @@
+# Conda environment directory
+env/
+.conda/
+.idea/
+faiss_index/
+.venv/
+virtualenv/
+env/
+.condarc
+.conda_environments/
+.conda_lock/
+.conda_lock.yml
+
+# Conda package cache
+pkgs/
+pkgs_dirs/
+conda-meta/
+
+# Conda environment files
+*.yml
+*.yaml
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
