@@ -59,4 +59,3 @@ This project is a question-answering application that uses LangChain to retrieve
 
 Reference:
     For more information, you can watch this video: https://www.youtube.com/watch?v=d4yCWBGFCEs
-"""
